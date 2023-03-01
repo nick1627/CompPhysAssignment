@@ -1,6 +1,4 @@
-CID:  01202835
-Name:  Nicholas Rayns
-Username: nr1016
+Author: nick1627
 
 This is my submission for the Computational Physics assignment, written in Python.
 
